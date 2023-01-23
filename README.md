@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliraja-dev
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently Graduate CS Student at Virginia Tech
-- 💞️ I’m looking to collaborate on Spring MicroServices and Backend Engineering
+- 👀 I’m interested in Software Engineering & IAM
+- 🌱 I’m currently part time Graduate CS Student at Virginia Tech
+- 💞️ I’m looking to collaborate on SailPoint IdentityIQ
 - 📫 How to reach me ... https://www.linkedin.com/in/aliraja-dev/
